@@ -76,7 +76,7 @@ __Since smart contract are deterministics in nature: They can't listen to events
 * __getRequestConfirmations()__ - ```Returns the number of confirmations the ChainLink VRF should wait for before returning the random number```
 * __getCallBackGasLimit()__  - ```Returns the max amount of gas capped for the VRFCoordinator ```
 
-*** <div style="margin-top:30px"></div>**
+ <div style="margin-top:30px"></div>
 
 ## 👩‍💻 __COMMANDS TO USE__
 
